@@ -1,2 +1,2 @@
 # Cssgrid
-practicing css grid
+Responsive Website using css grid
