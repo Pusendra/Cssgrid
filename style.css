@@ -4,7 +4,7 @@
     font-size: 40px;
     justify-content: center;
     text-decoration-color: #F3AAAA;
-    background-color: #C655BE;
+    background-color:red;
 }
 .container{
   display: grid;
